@@ -7,4 +7,4 @@ image: null
 author: Abdulkadir
 show_tile: false
 ---
-Graduated 2024  d nunc rhoncus amet pharetra et feugiat tempus.
+Graduated 2024.

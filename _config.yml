@@ -1,6 +1,6 @@
 # site settings
 title: CV
-subtitle: my personal CV
+subtitle: Computer Engineering
 email: tenoclockdev@gmail.com
 description: A website for resume <br /> CV .
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -9,7 +9,7 @@ author:
 street_address: ---- 
 city: Konya
 state: Karatay
-zip_code: 55555
+zip_code: ----
 country: Turkey
 phone: ----
 
